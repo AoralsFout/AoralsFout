@@ -2,28 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;Welcome+to+My+Profile!;%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%EF%BC%81;Code+%C2%B7+Learn+%C2%B7+Create" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<h1 align="center">AoralsFout</h1>
-
-<p align="center">
-  <b>Student · Developer</b>
-  <br/>
-  <b>学生 · 开发者</b>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AoralsFout&style=for-the-badge&color=58A6FF" alt="Profile Views" />
-  <a href="https://github.com/AoralsFout?tab=followers">
-    <img src="https://img.shields.io/github/followers/AoralsFout?style=for-the-badge&logo=github&color=58A6FF" alt="Followers" />
-  </a>
-</div>
-
-<br/>
-
----
 
 ## 👨‍💻 About Me / 关于我
 
@@ -47,7 +25,6 @@ currently_learning:
   - Harmony Development
 ```
 
----
 
 ## 🛠️ Tech Stack / 技术栈
 
@@ -79,7 +56,6 @@ currently_learning:
 
 </div>
 
----
 
 ## 📊 GitHub Stats / GitHub 统计
 
@@ -92,7 +68,6 @@ currently_learning:
 
 <br/>
 
----
 
 ## 📫 Contact / 联系方式
 
@@ -103,7 +78,6 @@ currently_learning:
 
 </div>
 
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
