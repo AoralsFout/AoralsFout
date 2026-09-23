@@ -22,7 +22,7 @@ interests:
 currently_learning:
   - Tauri with Rust
   - AI Agent
-  - Harmony Development
+  - Game Development with Godot ❤
 ```
 
 
