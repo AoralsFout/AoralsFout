@@ -60,10 +60,8 @@ currently_learning:
 ## 📊 GitHub Stats / GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=AoralsFout&show_icons=true&theme=github_dark&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AoralsFout&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AoralsFout&theme=github-dark&hide_border=true&custom_title=Contribution%20Graph%20/%20%E8%B4%A1%E7%8C%AE%E5%9B%BE" width="95%" alt="Activity Graph" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=AoralsFout&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=AoralsFout&layout=compact&langs_count=10&theme=tokyonight" />
 </div>
 
 <br/>
